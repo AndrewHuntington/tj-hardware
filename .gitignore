@@ -4,8 +4,8 @@ ref/
 unused/
 
 # files
+README.txt
 .DS_Store
-.README.txt
 .LICENSE.txt
 elements.html
 generic.html
