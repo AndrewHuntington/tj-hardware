@@ -2909,7 +2909,7 @@ button:disabled,
 }
 
 .wrapper.style1 {
-  background-color: #21b2a6;
+  background-color: #2e3842;
   color: #c8ece9;
 }
 
@@ -4125,4 +4125,10 @@ body.is-mobile.landing .wrapper.style4 {
 
 body.is-mobile.landing #footer {
   background-color: #1d242a;
+}
+
+/* Custom Styles */
+
+.no-decoration {
+  border: none;
 }
